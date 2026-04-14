@@ -36,10 +36,12 @@ Imaginez un professionnel spécialisé dans la restauration de photographies end
 ## 3. Diagramme du Processus
 
 **Diagramme — Processus de diffusion direct et inverse (DDPM)** *Source : ResearchGate — Ghojogh & Ghodsi (2024)*
+![Generative AI Schema](images/The-forward-and-backward-processes-of-the-diffusion-model-The-credit-of-the-used-images.ppm)
 
 
 
 **Diagramme — Schéma du modèle de diffusion incluant l'architecture U-Net** *Source : ResearchGate*
+![Generative AI Schema](images/Schematics-of-diffusion-model-a-The-reverse-and-forward-diffusion-process-b-Time.webp)
 
 
 
